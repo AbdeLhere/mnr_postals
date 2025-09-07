@@ -7,3 +7,18 @@
    ensure mnr_postals
    
 this eddited version of mnr_postals is an optional dependency for the FST Enhanced Minimap script. It provides a postal system for FiveM servers, allowing players to search for postal codes, view their current postal, and click on the map to find postal locations.
+
+
+# Credits
+
+Original Script:
+- [nearest-postal](https://github.com/DevBlocky/nearest-postal) by DevBlocky
+- MIT License | Copyright (c) 2019 BlockBa5her
+- https://github.com/Monarch-Development/mnr_postals
+
+## Command
+To set a Waypoint to a certain postal, type `/gps [postalCode]`
+
+## Links
+- [Discord](https://discord.gg/WKtk65yBC6)
+- [Documentation](https://monarch-docs.ricodev.it/docs/monarch-resources/mnr_postals)
