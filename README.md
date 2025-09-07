@@ -20,5 +20,5 @@ Original Script:
 To set a Waypoint to a certain postal, type `/gps [postalCode]`
 
 ## Links
-- [Discord](https://discord.gg/WKtk65yBC6)
-- [Documentation](https://monarch-docs.ricodev.it/docs/monarch-resources/mnr_postals)
+- [Discord](https://discord.gg/KYw5C9MdE8)
+- [Documentation](https://abdelemporium-docs.gitbook.io/frostbytestudios/ui-and-hud-enhancements/fst-enhanced-minimap)
