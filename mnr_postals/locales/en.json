@@ -1,0 +1,16 @@
+{
+    "help-command": "Sets a waypoint on the map",
+    "help-param": "Postal Code",
+    "help-nearest-command": "Shows your nearest postal code",
+    "help-find-command": "Find postal code at any location by setting a waypoint",
+    "not-found": "The postal %d doesn't exist",
+    "set-success": "Waypoint set to postal %d",
+    "nearest-postal": "Your nearest postal code is: %d",
+    "no-postal-found": "No postal code found nearby",
+    "finder-instructions": "Open your map and set a waypoint anywhere to find the postal code",
+    "finder-already-active": "Postal finder is already active",
+    "postal-at-location": "Postal code at waypoint location: %d",
+    "no-postal-at-location": "No postal code found at waypoint location",
+    "finder-cancelled": "Postal finder cancelled",
+    "finder-timeout": "Postal finder timed out after 30 seconds"
+}
