@@ -21,6 +21,6 @@ Original Script:
 ## Command
 To set a Waypoint to a certain postal, type `/gps [postalCode]`
 
-## Links
-- [Discord](https://discord.gg/KYw5C9MdE8)
-- [Documentation](https://abdelemporium-docs.gitbook.io/frostbytestudios/ui-and-hud-enhancements/fst-enhanced-minimap)
+# Documentation
+- join my [discord](https://discord.gg/bf5qs226RV) for support 
+- check the docs [here](https://abdelemporium-docs.gitbook.io/frostbytestudios/ui-and-hud-enhancements/fst-enhanced-minimap) 
